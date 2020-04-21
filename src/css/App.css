@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.li {
+  list-style-type: none;
+}
+
+.deleteBtn {
+  color : red;
+}
+
+.deleteBtn:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
